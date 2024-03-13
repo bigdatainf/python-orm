@@ -1,5 +1,3 @@
-import mysql.connector as sql
-
 class BaseManager:
     connection = None
  
